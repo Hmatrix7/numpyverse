@@ -29,9 +29,11 @@ print(b)
 #Random Arrays and Shapes
 # 2D array of random floats (3x3)
 arr = np.random.rand(3, 3)
+print(arr)
 
 # 2D array of random integers
 ints = np.random.randint(10, 50, size=(2, 4))
+print(ints)
 
 
 # In[6]:
